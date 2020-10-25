@@ -27,11 +27,11 @@
 * It will Write output files in results folder.
 
 # Test Screenshots
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Skew_correction/Testimgs/TiltPlate(5).jpg)
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Skew_correction/Results/Rotated8.jpg)
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Skew_correction/Results/didntWarp12.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Skew_correction/Testimgs/TiltPlate(5).jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Skew_correction/Results/Rotated8.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Skew_correction/Results/didntWarp12.jpg)
 
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Skew_correction/Testimgs/TiltPlate(3).jpg)
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Skew_correction/Results/Rotated6.jpg)
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Skew_correction/Results/warped6.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Skew_correction/Testimgs/TiltPlate(3).jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Skew_correction/Results/Rotated6.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Skew_correction/Results/warped6.jpg)
 
