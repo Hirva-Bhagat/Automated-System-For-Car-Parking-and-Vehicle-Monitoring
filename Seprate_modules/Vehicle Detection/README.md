@@ -35,10 +35,10 @@ run the caffe_detection.py
 result of detected vehicles in images will be marked and saved in the Results directory
 
 ## Test Screenshots
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Vehicle%20Detection/Results/1.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Vehicle%20Detection/Results/1.jpg)
 
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Vehicle%20Detection/Results/2.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Vehicle%20Detection/Results/2.jpg)
 
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Vehicle%20Detection/Results/3.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Vehicle%20Detection/Results/3.jpg)
 
-![Screen Shot 1](https://github.com/manan-d8/CB31_CyberKnights/blob/master/Vehicle%20Detection/Results/4.jpg)
+![Screen Shot 1](https://github.com/Hirva-Bhagat/Automated-System-For-Car-Parking-and-Vehicle-Monitoring/blob/main/Seprate_modules/Vehicle%20Detection/Results/4.jpg)
